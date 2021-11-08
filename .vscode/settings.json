@@ -1,0 +1,6 @@
+{
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"javascript.preferences.quoteStyle": "single"
+}
